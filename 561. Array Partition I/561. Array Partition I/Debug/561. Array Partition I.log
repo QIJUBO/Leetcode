@@ -1,0 +1,4 @@
+﻿  源.cpp
+g:\gitcode\leetcode\561. array partition i\561. array partition i\源.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+g:\gitcode\leetcode\561. array partition i\561. array partition i\源.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+  561. Array Partition I.vcxproj -> G:\GitCode\Leetcode\561. Array Partition I\Debug\561. Array Partition I.exe
