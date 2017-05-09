@@ -1,3 +1,4 @@
+//题的内容以及解析步骤请查看：http://blog.csdn.net/niub25/article/details/71498623
 #include<iostream>;
 #include<vector>//运用vector
 #include <algorithm>//运用sort
