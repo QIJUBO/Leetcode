@@ -30,7 +30,7 @@ int main()
 	int num[] = { 1,4,2,3 };
 	Solution a;
 	int b = sizeof(num) / sizeof(num[0]);
-	vector<int> nums(num,num +4 );
+	vector<int> nums(num,num+b );
 	cout << a.arrayPairSum(nums) << endl;
 	system("pause");
 }
