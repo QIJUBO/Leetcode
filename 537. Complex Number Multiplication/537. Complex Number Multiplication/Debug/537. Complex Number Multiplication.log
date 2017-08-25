@@ -1,0 +1,7 @@
+﻿  源.cpp
+g:\gitcode\leetcode\537. complex number multiplication\537. complex number multiplication\源.cpp(4): error C2059: 语法错误:“public”
+g:\gitcode\leetcode\537. complex number multiplication\537. complex number multiplication\源.cpp(4): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+g:\gitcode\leetcode\537. complex number multiplication\537. complex number multiplication\源.cpp(4): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+g:\gitcode\leetcode\537. complex number multiplication\537. complex number multiplication\源.cpp(25): error C2059: 语法错误:“public”
+g:\gitcode\leetcode\537. complex number multiplication\537. complex number multiplication\源.cpp(25): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+g:\gitcode\leetcode\537. complex number multiplication\537. complex number multiplication\源.cpp(25): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
